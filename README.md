@@ -3,7 +3,7 @@ Simple profile project is a simple test project after finsh learn css and html f
 <br>
 
 ## Live Site:  
-   - Link: https://gym-exercs.netlify.app/
+   - Link: https://ahmed-abo-rafat.github.io/simple-profile/
 
 ## Technologies
 Project is created with:
